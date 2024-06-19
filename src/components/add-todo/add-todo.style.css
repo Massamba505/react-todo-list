@@ -1,0 +1,20 @@
+.todo-tab{
+    display: flex;
+    justify-content: center;
+}
+.todo-tab input{
+    height: 3em;
+    width: 23em;
+    border-radius: 1em 0px 0px 1em;
+    padding: 0.1em 1em;
+    font-size: 1em;
+    outline: none;
+    border: 1px solid #283149;
+}
+
+.todo-tab button{
+    padding: 0.9em;
+    border-radius: 0em 1em 1em 0em;
+    cursor: pointer;
+    font-size: 1em;
+}
