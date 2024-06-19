@@ -17,7 +17,7 @@ const TodoList = ({todo_list, functions})=>{
                             functions = {functions}
                         />
                     )
-                }): <h1>add to a todo...</h1>
+                }): <h1>add a todo...</h1>
             }
         </div>
     )
